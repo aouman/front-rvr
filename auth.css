@@ -1,0 +1,28 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.radius-25{
+  border-radius: 50px 0;
+}
+
+.btn-color{
+  background-color: #3b9004;
+}
+
+.font-s-14{
+  font-size: 14px;
+}
+
+.body {
+  background: linear-gradient(115deg, orange 35%, #28a745);
+}
+
+.login-bg{
+  background-color: wheat;
+}
+
+input:hover {
+  background-color: #f8f9fac7;
+  border-radius: 8px!important;
+  border-bottom: 3px solid green!important;
+}
