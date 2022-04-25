@@ -1,0 +1,41 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-color{
+  background-color: #3b9004;
+}
+
+.btn-color-2 {
+    background-color: #ff5200;
+}
+
+.form-control:focus {
+    border-color: #ff5200!important;
+    box-shadow: 0 0 0 0.2rem rgb(255 82 0 / 18%)!important;
+}
+
+.font-s-14{
+  font-size: 14px;
+}
+
+.font-s-13{
+  font-size: 13px;
+}
+
+.font-s-16{
+  font-size: 16px;
+}
+
+.rdius-15{
+  border-radius: 15px;
+}
+
+.border0 {
+  border: 0;
+}
+
+.list-group-item {
+  border: 0;
+  font-weight: 700;
+}
